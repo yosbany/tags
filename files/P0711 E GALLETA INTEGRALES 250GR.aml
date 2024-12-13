@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <LPAPI version="1.6">
-    <labelName>P0036 E MILANESA DE CARNE AL PAN</labelName>
+    <labelName>P0711 E GALLETA INTEGRALES 250GR</labelName>
     <paperName>Custom Label</paperName>
     <isPrintHorizontal>0</isPrintHorizontal>
     <labelHeight>25.400</labelHeight>
@@ -41,12 +41,12 @@
                 <Text>
                     <tableItemRow>0</tableItemRow>
                     <tableItemCol>0</tableItemCol>
-                    <oldContent>140</oldContent>
+                    <oldContent>90</oldContent>
                     <horAlignment>2</horAlignment>
                     <verAlignment>1</verAlignment>
                     <fontHeight>9.878</fontHeight>
                     <fontName>Arial</fontName>
-                    <content>140</content>
+                    <content>90</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -74,7 +74,7 @@
                     <y>10.192</y>
                     <x>54.010</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>140</textDataFormat>
+                    <textDataFormat>90</textDataFormat>
                     <id>31c421727c5740748107b31fcc0373cf</id>
                     <objectId>2149771652</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -84,7 +84,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>140</string>
+                            <string>90</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
@@ -285,7 +285,7 @@
                     <verAlignment>1</verAlignment>
                     <fontHeight>2.461</fontHeight>
                     <fontName>por defecto</fontName>
-                    <content>P0036</content>
+                    <content>P0711</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -313,7 +313,7 @@
                     <y>19.671</y>
                     <x>1.102</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>P0036</textDataFormat>
+                    <textDataFormat>P0711</textDataFormat>
                     <id>002637941e25498c9fb8158726aac930</id>
                     <objectId>2149136066</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -323,7 +323,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>P0036</string>
+                            <string>P0711</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
@@ -390,7 +390,7 @@
                     <verAlignment>1</verAlignment>
                     <fontHeight>3.431</fontHeight>
                     <fontName>Arial</fontName>
-                    <content>MILANESA DE CARNE AL PAN</content>
+                    <content>GALLETA INTEGRALES 250GR</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -418,7 +418,7 @@
                     <y>1.494</y>
                     <x>1.102</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>MILANESA DE CARNE AL PAN</textDataFormat>
+                    <textDataFormat>GALLETA INTEGRALES 250GR</textDataFormat>
                     <id>3ad743f977d64d7c898ea20d9fd75814</id>
                     <objectId>2149402622</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -428,7 +428,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>MILANESA DE CARNE AL PAN</string>
+                            <string>GALLETA INTEGRALES 250GR</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
