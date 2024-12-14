@@ -260,7 +260,10 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>LECHE EN POLVO ENTERA CONAPROLE 500GR</string>
+                            <string>LECHE EN POLVO ENTERA CONAPROLE </string>
+                        </LineObj>
+                        <LineObj>
+                            <string>500GR</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
