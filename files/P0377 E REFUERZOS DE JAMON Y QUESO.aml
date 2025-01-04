@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <LPAPI version="1.6">
-    <labelName>P0377 E REFUERZOS DE SALAME Y QUESO</labelName>
+    <labelName>P0377 E REFUERZOS DE JAMON Y QUESO</labelName>
     <paperName>Custom Label</paperName>
     <isPrintHorizontal>0</isPrintHorizontal>
     <labelHeight>25.400</labelHeight>
@@ -390,7 +390,7 @@
                     <verAlignment>1</verAlignment>
                     <fontHeight>3.431</fontHeight>
                     <fontName>Arial</fontName>
-                    <content>REFUERZOS DE SALAME Y QUESO</content>
+                    <content>REFUERZOS DE JAMON Y QUESO</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -418,7 +418,7 @@
                     <y>1.494</y>
                     <x>1.102</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>REFUERZOS DE SALAME Y QUESO</textDataFormat>
+                    <textDataFormat>REFUERZOS DE JAMON Y QUESO</textDataFormat>
                     <id>3ad743f977d64d7c898ea20d9fd75814</id>
                     <objectId>2149402622</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -428,7 +428,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>REFUERZOS DE SALAME Y QUESO</string>
+                            <string>REFUERZOS DE JAMON Y QUESO</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
