@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <LPAPI version="1.6">
-    <labelName>P0040 E SANDWICHES OLIMPICO</labelName>
+    <labelName>P0035 E SANDWICHES INTEGRAL DE JAMÓN Y QUESO</labelName>
     <paperName>Custom Label</paperName>
     <isPrintHorizontal>0</isPrintHorizontal>
     <labelHeight>25.400</labelHeight>
@@ -41,7 +41,7 @@
                 <Text>
                     <tableItemRow>0</tableItemRow>
                     <tableItemCol>0</tableItemCol>
-                    <oldContent>130</oldContent>
+                    <oldContent>110</oldContent>
                     <horAlignment>2</horAlignment>
                     <verAlignment>1</verAlignment>
                     <fontHeight>9.878</fontHeight>
@@ -285,7 +285,7 @@
                     <verAlignment>1</verAlignment>
                     <fontHeight>2.461</fontHeight>
                     <fontName>por defecto</fontName>
-                    <content>P0040</content>
+                    <content>P0035</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -313,7 +313,7 @@
                     <y>19.671</y>
                     <x>1.102</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>P0040</textDataFormat>
+                    <textDataFormat>P0035</textDataFormat>
                     <id>002637941e25498c9fb8158726aac930</id>
                     <objectId>2149136066</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -323,7 +323,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>P0040</string>
+                            <string>P0035</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
@@ -390,7 +390,7 @@
                     <verAlignment>1</verAlignment>
                     <fontHeight>3.431</fontHeight>
                     <fontName>Arial</fontName>
-                    <content>SANDWICHES OLIMPICO</content>
+                    <content>SANDWICHES INTEGRAL DE JAMÓN Y QUESO</content>
                     <orientation>0.000000</orientation>
                     <isAutoSize>1</isAutoSize>
                     <textColor>#FF000000</textColor>
@@ -418,7 +418,7 @@
                     <y>1.494</y>
                     <x>1.102</x>
                     <lockMovement>0</lockMovement>
-                    <textDataFormat>SANDWICHES OLIMPICO</textDataFormat>
+                    <textDataFormat>SANDWICHES INTEGRAL DE JAMÓN Y QUESO</textDataFormat>
                     <id>3ad743f977d64d7c898ea20d9fd75814</id>
                     <objectId>2149402622</objectId>
                     <paragraphStyle>0</paragraphStyle>
@@ -428,7 +428,7 @@
                     </fontInfos>
                     <Lines>
                         <LineObj>
-                            <string>SANDWICHES OLIMPICO</string>
+                            <string>SANDWICHES INTEGRAL DE JAMÓN Y QUESO</string>
                         </LineObj>
                     </Lines>
                     <antiColor>0</antiColor>
